@@ -127,6 +127,12 @@ footer {
     background-color: black;
 }
 
+.logo {
+    float: left;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
 li a {
     color: white;
     text-decoration: none;
@@ -134,4 +140,12 @@ li a {
 
 nav {
     float: right;
+    word-spacing: 30px;
+    padding: 20px
 }
+
+nav li {
+    display: inline-block;
+    line-height: 80px;
+}
+
